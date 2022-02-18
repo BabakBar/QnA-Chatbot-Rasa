@@ -1,6 +1,6 @@
 version: "3.0"
 
-intents: #type of things user say to bot
+intents: #categories of things user say to bot
   - greet
   - goodbye
   - affirm
@@ -9,7 +9,7 @@ intents: #type of things user say to bot
   - mood_unhappy
   - bot_challenge
 
-responses:
+responses: # assistant can say to users
   utter_greet:
   - text: "Hey! How are you?"
 
