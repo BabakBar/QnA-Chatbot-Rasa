@@ -16,6 +16,9 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - hola
+    - bon dia
+    - whats up?
 
 - intent: goodbye
   examples: |
@@ -140,4 +143,6 @@ nlu:
     - I'm having trouble in finding supervisor
     - I'm having trouble to apply
     - I need human assistant
+    - you can't answer my question
+    - you are not able to help me
 
