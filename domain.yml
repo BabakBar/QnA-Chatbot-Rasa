@@ -14,6 +14,8 @@ intents: #categories of things user say to bot
   - supervisors
   - admission
   - register
+  - apply
+  - contact
 
 responses: # assistant can say to users
   utter_greet:
