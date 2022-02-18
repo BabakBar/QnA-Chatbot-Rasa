@@ -14,21 +14,14 @@ rasa -h allows you get receive relevant help text for a command.
 rasa --debug gives you extra log output when running commands
 
 The Domain File: directory of all tbe bot knows
-so this includes responses these are
-things that your assistant will say to
-users
-intents these are categories of things
-that your users can say to your
-assistant that might warrant a response
-slots variables that are stored over the
-course of the conversation
-entities pieces of information that are
-extracted from the raw user input text
-and forms and actions and these are ways
-to extend what your assistant can do and
-add some additional logic
-today we're going to focus mainly on
-responses and intents
+
+Responses: These are the things the assistant can say to users.
+Intents: These are categories of things users say.
+Slots: These are variables remembered over the course of a conversation.
+Entities: These are pieces of information extracted from incoming text.
+Forms and actions: These add application logic & extend what your assistant can do.
+
+
 so these are what your responses will
 look like in your domain.emo file
 you'll have responses in a colon and
