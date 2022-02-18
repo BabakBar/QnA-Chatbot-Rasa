@@ -91,3 +91,12 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
     - who are you?
+    - what you do here?
+
+- intent: get_started
+  examples: |
+    - what is this site?
+    - how can you help me?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
