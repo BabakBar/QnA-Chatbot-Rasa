@@ -11,6 +11,7 @@ intents: #categories of things user say to bot
   - get_started
   - program
   - committe
+  - supervisors
 
 responses: # assistant can say to users
   utter_greet:
