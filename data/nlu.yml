@@ -104,12 +104,10 @@ nlu:
 
 - intent: committe
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
-    - who are you?
-    - what you do here?
+    - who is the coordinator?
+    - which universities participate?
+    - who is the administrative?
+    - who are the academic committe?
 
 - intent: supervisors
   examples: |
