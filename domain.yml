@@ -9,11 +9,9 @@ intents: #categories of things user say to bot
   - mood_unhappy
   - bot_challenge
   - get_started
-  - program
   - committe
   - supervisors
   - admission
-  - register
   - apply
   - contact
 

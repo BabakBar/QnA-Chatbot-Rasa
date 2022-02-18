@@ -97,6 +97,53 @@ nlu:
   examples: |
     - what is this site?
     - how can you help me?
+    - start 
+    - is this a phd program?
+    - what is this doctoral?
+    - I want to know about phd doctoral
+
+- intent: committe
+  examples: |
+    - are you a bot?
+    - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
     - who are you?
+    - what you do here?
+
+- intent: supervisors
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
+    - what you do here?
+
+- intent: admission
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
+    - what you do here?
+
+- intent: apply
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
+    - what you do here?
+
+- intent: contact
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
+    - what you do here?
+
