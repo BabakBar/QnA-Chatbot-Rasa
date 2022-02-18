@@ -15,7 +15,7 @@ rasa --debug gives you extra log output when running commands
 
 The Domain File: directory of all tbe bot knows
 
-Responses: These are the things the assistant can say to users.
+Responses: These are the things the assistant can say to users. can also define responses that are dynamic, contain images or buttons as well!
 Intents: These are categories of things users say.
 Slots: These are variables remembered over the course of a conversation.
 Entities: These are pieces of information extracted from incoming text.
