@@ -21,4 +21,4 @@ Slots: These are variables remembered over the course of a conversation.
 Entities: These are pieces of information extracted from incoming text.
 Forms and actions: These add application logic & extend what your assistant can do.
 
-
+Stories: training data to teach your assistant what it should do next. rasa interactive command
