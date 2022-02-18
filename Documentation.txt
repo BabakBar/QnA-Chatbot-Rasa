@@ -16,7 +16,7 @@ rasa --debug gives you extra log output when running commands
 The Domain File: directory of all tbe bot knows
 
 Responses: These are the things the assistant can say to users. can also define responses that are dynamic, contain images or buttons as well!
-Intents: These are categories of things users say.
+Intents: These are categories of things users say. The training data for these intents can be found in the nlu.yml
 Slots: These are variables remembered over the course of a conversation.
 Entities: These are pieces of information extracted from incoming text.
 Forms and actions: These add application logic & extend what your assistant can do.
