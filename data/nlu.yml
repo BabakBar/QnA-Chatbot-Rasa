@@ -111,37 +111,33 @@ nlu:
 
 - intent: supervisors
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
-    - who are you?
-    - what you do here?
+    - who are the supervisors?
+    - what are the fields of phd?
+    - who are the faculty members?
+    - who is the thesis supervisor?
+    - in which fields of management and business administration members research?
+    - what are the research fields?
 
 - intent: admission
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
-    - who are you?
-    - what you do here?
+    - how is the admission process?
+    - how can I register?
+    - does the program need training?
+    - how long is the phd?
+    - what are the regulations?
 
 - intent: apply
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
-    - who are you?
-    - what you do here?
+    - when is the deadline to apply?
+    - what are the requirements?
+    - what documents are needed?
+    - do I need english certificate?
 
 - intent: contact
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
-    - who are you?
-    - what you do here?
+    - what is the program's email?
+    - who can I contact for more information?
+    - I'm having trouble in finding supervisor
+    - I'm having trouble to apply
+    - I need human assistant
 
