@@ -34,3 +34,5 @@ Product names
 - Duckling for extracting numbers, dates, urls and email adresses
 - SpaCy to detect names, locations and organistions
 - regex for phone numbers, postcodes or account numbers.
+- DIET Another option to train ML model to detect entities. The base Rasa model. The downside of this approach is that you will need to add sufficient training examples but the upside is that you're not limited to what the premade libraries can offer you.
+
