@@ -31,3 +31,6 @@ Dates
 Country names
 Product names
 - using both Duckling and spaCy in a single pipeline to build models for extracting entities
+- Duckling for extracting numbers, dates, urls and email adresses
+- SpaCy to detect names, locations and organistions
+- regex for phone numbers, postcodes or account numbers.
