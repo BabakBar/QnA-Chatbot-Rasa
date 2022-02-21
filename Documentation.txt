@@ -38,4 +38,4 @@ Product names
 Roles and Groups: for example flights, from X to Y
 - Use synonyms to map extracted values toa single standard value
 
-Slots: 
+Slots: long term memory in a conversation
