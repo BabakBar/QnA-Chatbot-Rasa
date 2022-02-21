@@ -37,3 +37,5 @@ Product names
 - DIET Another option to train ML model to detect entities. The base Rasa model. The downside of this approach is that you will need to add sufficient training examples but the upside is that you're not limited to what the premade libraries can offer you.
 Roles and Groups: for example flights, from X to Y
 - Use synonyms to map extracted values toa single standard value
+
+Slots: 
