@@ -96,7 +96,7 @@ nlu:
     - who are you?
     - what you do here?
 
-- intent: faq/get_started
+- intent: faq/ask_get_started
   examples: |
     - what is this site?
     - how can you help me?
@@ -105,14 +105,14 @@ nlu:
     - what is this doctoral?
     - I want to know about phd doctoral
 
-- intent: faq/committe
+- intent: faq/ask_committe
   examples: |
     - who is the coordinator?
     - which universities participate?
     - who is the administrative?
     - who are the academic committe?
 
-- intent: faq/supervisors
+- intent: faq/ask_supervisors
   examples: |
     - who are the supervisors?
     - what are the fields of phd?
@@ -121,7 +121,7 @@ nlu:
     - in which fields of management and business administration members research?
     - what are the research fields?
 
-- intent: faq/admission
+- intent: faq/ask_admission
   examples: |
     - how is the admission process?
     - how can I register?
@@ -129,14 +129,14 @@ nlu:
     - how long is the phd?
     - what are the regulations?
 
-- intent: faq/apply
+- intent: faq/ask_apply
   examples: |
     - when is the deadline to apply?
     - what are the requirements?
     - what documents are needed?
     - do I need english certificate?
 
-- intent: faq/contact
+- intent: faq/ask_contact
   examples: |
     - what is the program's email?
     - who can I contact for more information?
