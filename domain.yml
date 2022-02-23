@@ -8,12 +8,6 @@ intents: #categories of things user say to bot
   - mood_great
   - mood_unhappy
   - bot_challenge
-  - get_started
-  - committe
-  - supervisors
-  - admission
-  - apply
-  - contact
   - faq
 
 responses: # assistant can say to users
