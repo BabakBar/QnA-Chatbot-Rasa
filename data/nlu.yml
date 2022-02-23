@@ -95,6 +95,8 @@ nlu:
     - am I talking to a human?
     - who are you?
     - what you do here?
+    - what is your name?
+    - what should I call you?
 
 - intent: faq/ask_get_started
   examples: |
