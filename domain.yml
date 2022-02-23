@@ -31,6 +31,10 @@ responses: # assistant can say to users
   utter_iamabot:
   - text: "I am a bot, built to assist you."
 
+  utter_faq/ask_get_started:
+  - text: "Four leading Spanish universities join efforts and look for synergies to train young researchers to perform cutting-edge research in the fields of management and business administration in context of Doctoral Programme."
+
+
   # utter_default:
   #  - text: "Sorry, I didn't get that, can you rephrase?"
 
