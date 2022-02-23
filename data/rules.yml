@@ -17,7 +17,3 @@ rules:
   - intent: faq
   - action: utter_faq
    
-- rule: respond to chitchat
-  steps:
-  - intent: chitchat
-  - action: utter_chitchat
