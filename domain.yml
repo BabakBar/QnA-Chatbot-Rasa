@@ -29,7 +29,7 @@ responses: # assistant can say to users
   - text: "Bye!"
 
   utter_iamabot:
-  - text: "I am a bot, built to assist you."
+  - text: "I am a bot, built to answer your questions."
 
   utter_faq/ask_get_started:
   - text: "Four leading Spanish universities join efforts and look for synergies to train young researchers to perform cutting-edge research in the fields of management and business administration in context of Doctoral Programme. More info on (https://management-phd.eu/)"

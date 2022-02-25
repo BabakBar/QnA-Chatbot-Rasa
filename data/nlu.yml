@@ -33,25 +33,6 @@ nlu:
     - bye bye
     - see you later
 
-- intent: affirm
-  examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
-
-- intent: deny
-  examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
@@ -72,17 +53,14 @@ nlu:
     - what is this doctoral?
     - I want to know about phd doctoral
 
-- intent: faq/ask_committe
-  examples: |
-    - who is the coordinator?
-    - which universities participate?
-    - who is the administrative?
-    - who are the academic committe?
-
 - intent: faq/ask_supervisors
   examples: |
     - who are the supervisors?
     - what are the fields of phd?
+    - who is the coordinator?
+    - which professors participate?
+    - who is the administrative?
+    - who are the academic committe?
     - who are the faculty members?
     - who is the thesis supervisor?
     - in which fields of management and business administration members research?

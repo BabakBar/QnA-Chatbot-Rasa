@@ -7,10 +7,6 @@ stories:
   - intent: greet
   - action: utter_greet
 
-- story: are you a bot
-  steps:
-  - intent: bot_challenge
-  - action: iamabot
 
 - story: sad path 2
   steps:
