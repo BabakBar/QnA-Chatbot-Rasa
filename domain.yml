@@ -12,8 +12,8 @@ intents: #categories of things user say to bot
 
 responses: # assistant can say to users
   utter_greet:
-  - text: "Hey! How are you?"
-  - text: "Hey! How is your day going?"
+  - text: "Hey! How can I help you?\n"
+  - text: "Hi! What questions do you have\n?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
